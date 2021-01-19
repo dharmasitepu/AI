@@ -1,5 +1,5 @@
-# akademik
-Software Management Sistem akademik 
+# Realtime Detection Oject
+
 
 Download atau Pull requests
 lalu jalankan dengan XAMPP secara local
